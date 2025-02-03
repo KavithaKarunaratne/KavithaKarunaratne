@@ -7,11 +7,27 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+
+- <table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning **NestJS, Angular, PHP**
+
+- 🧑‍🎓 I’m an Undergraduate at **University of Westminster**
 
 - 💬 Ask me about **Java, React, HTML**
 
 - 📫 How to reach me **kavithakaru2@gmail.com**
+  
+- ⚡ Fun fact **I’m professionally skilled at getting lost in fiction books**
+
+</td>
+
+</tr>
+</table>
+
 
 
 
