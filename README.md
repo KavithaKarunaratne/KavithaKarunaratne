@@ -8,8 +8,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-
-- <table align="center">
+<table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
