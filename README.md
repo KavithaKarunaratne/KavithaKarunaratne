@@ -23,6 +23,12 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/kavitha-karunaratne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kavitha-karunaratne" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavithakarunaratne&show_icons=true&locale=en&layout=compact" alt="kavithakarunaratne" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavithakarunaratne&show_icons=true&locale=en" alt="kavithakarunaratne" /></p>
