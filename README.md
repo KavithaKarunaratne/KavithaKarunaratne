@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a full stack developer  <br>- 📚 Always learning, always curious  <br>- 🦩 In my free time I explore cafes, get lost in libraries, and somehow end up even deeper in fiction books   <br>- 🌱 I care about the planet and support **zero plastic** whenever possible</p>
+<p align="left">- 🔭 I’m working as a full stack developer  <br>- 📚 Always learning, always curious  <br>- 🦩 In my free time I explore cafes, get lost in library, and somehow end up even deeper in fiction books   <br>- 🌱 I care about the planet and support **zero plastic** whenever possible</p>
 
 ###
 
