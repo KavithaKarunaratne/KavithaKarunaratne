@@ -1,16 +1,16 @@
-<h1 align="left">Hello 👋🏼 I'm Kavitha</h1>
+<h1 align="center">Hello 👋🏼 I'm Kavitha</h1>
 
 ###
 
-<h2 align="left">Growing my skills, one line at a time! 🌱</h2>
+<h2 align="center">Growing my skills, one line at a time! 🌱</h2>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as a full stack developer  <br>- 📚 Always learning, always curious  <br>- 🦩 In my free time I explore cafes, get lost in library, and somehow end up even deeper in fiction books   <br>- 🌱 I care about the planet and support **zero plastic** whenever possible</p>
+<p align="center">- 🔭 I’m working as a full stack developer  <br>- 📚 Always learning, always curious  <br>- 🦩 In my free time I explore cafes, get lost in library, and somehow end up even deeper in fiction books   <br>- 🌱 I care about the planet and support **zero plastic** whenever possible</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo"  />
@@ -98,17 +98,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats </h3>
+<h3 align="center">🔥   My Stats </h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=KavithaKArunaratne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KavithaKArunaratne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KavithaKArunaratne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
