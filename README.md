@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW53ajBzMGd3b3Fwd3Bma2ZrdnllaGo5MzJ4bmJ6a3I3dWM5bGsydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
-</div>
-
-###
-
 <h1 align="center">Hello 👋🏼 I'm Kavitha</h1>
 
 ###
