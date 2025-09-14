@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">- 🔭 I’m working as a full stack developer  <br>- 📚 Always learning, always curious  <br>- 🦩 In my free time I explore cafes, get lost in library, and somehow end up even deeper in fiction books   <br>- 🌱 I care about the planet and support **zero plastic** whenever possible</p>
+<p align="left">- 🔭 I’m working as a full stack developer  <br>- 📚 Always learning, always curious  <br>- 🦩 In my free time I explore cafes, get lost in library, and somehow end up even deeper in fiction books   <br>- 🌱 I care about the planet and support **zero plastic** whenever possible</p>
 
 ###
 
