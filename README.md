@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋🏼 I'm Kavitha</h1>
+<h1 align="left">Hello 👋🏼 I'm Kavitha</h1>
 
 ###
 
-<h2 align="center">Growing my skills, one line at a time! 🌱</h2>
+<h2 align="left">Growing my skills, one line at a time! 🌱</h2>
 
 ###
 
